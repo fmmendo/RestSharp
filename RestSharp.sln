@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp.Net451", "RestSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp.Net452", "RestSharp.Net452\RestSharp.Net452.csproj", "{353349A9-4E6C-4706-A1C4-8363EAE0DBF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp.WinRT", "RestSharp.WinRT\RestSharp.WinRT.csproj", "{2A83BF11-C1C0-4031-AC08-07BD7F6EB941}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp.UAP", "RestSharp.UAP\RestSharp.UAP.csproj", "{2A83BF11-C1C0-4031-AC08-07BD7F6EB941}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
